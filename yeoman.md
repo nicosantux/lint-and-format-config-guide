@@ -137,7 +137,6 @@ module.exports = class extends Generator {
       "eslint",
       "eslint-config-prettier",
       "eslint-plugin-import",
-      "eslint-plugin-promise",
       "eslint-plugin-react",
       "eslint-plugin-react-hooks",
       "prettier",
