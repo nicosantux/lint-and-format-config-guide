@@ -65,6 +65,7 @@ Para esto, podemos crear en nuestra carpeta raíz un archivo llamado `.eslintign
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
+    "plugin:react/jsx-runtime",
     "prettier"
   ],
   "plugins": ["react", "import", "@typescript-eslint"],
@@ -83,7 +84,6 @@ Para esto, podemos crear en nuestra carpeta raíz un archivo llamado `.eslintign
   },
   "rules": {
     "react/prop-types": "off",
-    "react/react-in-jsx-scope": "off",
     "no-console": "warn",
     "eqeqeq": "error",
     "@typescript-eslint/no-unused-vars": [

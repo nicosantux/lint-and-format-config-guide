@@ -18,7 +18,7 @@ En este ejemplo, vamos a ver cómo crear un git hook para que, al hacer un commi
 
 ### Instalar Commitlint.
 
-Commitlint es un paquete que nos ayuda a que nuestros commits sigan ciertas reglas. Para utilizarlo, vamos a instalar dos dependencias de desarrollo.
+Commitlint es un paquete que nos ayuda a que nuestros commits sigan ciertas reglas. Para utilizarlo, vamos a instalar dos dependencias de desarrollo. [Documentación](https://commitlint.js.org/)
 
 ```bash
 npm i -D -E @commitlint/cli @commitlint/config-conventional
