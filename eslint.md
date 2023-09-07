@@ -49,8 +49,8 @@ Para esto, podemos crear en nuestra carpeta raíz un archivo llamado `.eslintign
 
 ## Paquetes de ESLint recomendados.
 
-- eslint-config-prettier (si utilizamos Prettier, este paquete es fundamental)
-- eslint-plugin-import
+- eslint-config-prettier (si utilizamos Prettier, este paquete es fundamental). [Documentación](https://github.com/prettier/eslint-config-prettier)
+- eslint-plugin-import. [Documentación](https://github.com/import-js/eslint-plugin-import)
 
 ## Ejemplo de una configuración de ESLint para React + Typescript.
 
